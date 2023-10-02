@@ -1,0 +1,15 @@
+:root {
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
